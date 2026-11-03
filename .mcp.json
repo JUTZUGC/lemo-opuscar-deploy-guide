@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "lemopuscar-guide": {
+      "command": "node",
+      "args": [
+        "mcp-server.mjs"
+      ]
+    }
+  }
+}
